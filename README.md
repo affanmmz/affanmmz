@@ -4,8 +4,6 @@ Perkenalkan nama saya **Affan Malakaini**.<br>
 
 Saya seorang **Cohort AI FullStack Developer** di [Dicoding](https://www.dicoding.com/).<br>
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Surabaya](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
-
 Saya adalah mahasiswa universitas negeri surabaya.<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhamad-affan-malakaini/)ku ya.
