@@ -1,4 +1,4 @@
-# 🪐 Hi, I'm Affan Malakaini &nbsp; [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="20">]([https://linkedin.com](https://www.linkedin.com/in/muhamad-affan-malakaini-4399133b1/)) [<img src="https://img.shields.io/badge/Dicoding-1E1E1E?style=flat&logo=dicoding&logoColor=white" height="20">](https://www.dicoding.com/users/177_muhamad_affaipy0/academies)
+# 🪐 Hi, I'm Affan Malakaini &nbsp; [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="20">](https://www.linkedin.com/in/muhamad-affan-malakaini-4399133b1/) [<img src="https://img.shields.io/badge/Dicoding-1E1E1E?style=flat&logo=dicoding&logoColor=white" height="20">](https://www.dicoding.com/users/177_muhamad_affaipy0/academies)
 
 ## Info
 
