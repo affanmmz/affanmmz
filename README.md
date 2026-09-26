@@ -18,10 +18,3 @@ Saya adalah seorang **Cohort AI FullStack Developer** di **[Dicoding](https://di
 | **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /> |
 
 ---
-
-## 📊 Github Statistic
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=affanmmz&show_icons=true&theme=tokyonight&rank_icon=percentile" alt="Affan's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=affanmmz&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
-</p>
