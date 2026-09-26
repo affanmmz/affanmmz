@@ -1,4 +1,4 @@
-# 🪐 Hi, I'm Affan Malakaini &nbsp; [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="20">](https://linkedin.com) [<img src="https://img.shields.io/badge/Dicoding-1E1E1E?style=flat&logo=dicoding&logoColor=white" height="20">](https://www.dicoding.com/users/177_muhamad_affaipy0/academies)
+# 🪐 Hi, I'm Affan Malakaini &nbsp; [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="20">]([https://linkedin.com](https://www.linkedin.com/in/muhamad-affan-malakaini-4399133b1/)) [<img src="https://img.shields.io/badge/Dicoding-1E1E1E?style=flat&logo=dicoding&logoColor=white" height="20">](https://www.dicoding.com/users/177_muhamad_affaipy0/academies)
 
 ## Info
 
@@ -12,10 +12,10 @@ Saya adalah seorang **Cohort AI FullStack Developer** di **[Dicoding](https://di
 
 | Kategori | Teknologi |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,kotlin,swift,html,css,js" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,html,css,js,python" /> |
 | **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter" /> |
-| **Backend & API** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel,python" /> |
-| **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" /> |
+| **Backend & API** | <img src="https://skillicons.dev/icons?i=nodejs,laravel,python" /> |
+| **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /> |
 
 ---
 
