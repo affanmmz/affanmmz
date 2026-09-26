@@ -12,7 +12,7 @@ Saya adalah seorang **Cohort AI FullStack Developer** di **[Dicoding](https://di
 
 | Kategori | Teknologi |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,html,css,js,python" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=html,css,js,python" /> |
 | **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter" /> |
 | **Backend & API** | <img src="https://skillicons.dev/icons?i=nodejs,laravel,python" /> |
 | **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /> |
